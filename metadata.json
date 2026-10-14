@@ -1,0 +1,6 @@
+{
+  "name": "SignBridge AI",
+  "description": "Real-time AI-powered American Sign Language (ASL) gesture recognition, live webcam translation, speech-to-text audio transcription, sentence construction, practice tutor, and comprehensive analytics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
